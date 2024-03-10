@@ -9,7 +9,7 @@
     "@ember/-internals": "workspace:*",
     "@ember/component": "workspace:*",
     "@glimmer/manager": "0.87.1",
-    "@glimmer/runtime": "0.87.1",
+    "@glimmer/runtime": "0.88.1",
     "expect-type": "^0.15.0"
   }
 }
