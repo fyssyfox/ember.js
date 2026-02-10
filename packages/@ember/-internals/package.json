@@ -40,7 +40,7 @@
     "@ember/template-factory": "workspace:*",
     "@ember/utils": "workspace:*",
     "@glimmer/compiler": "0.87.1",
-    "@glimmer/component": "^1.1.2",
+    "@glimmer/component": "^2.0.0",
     "@glimmer/destroyable": "0.87.1",
     "@glimmer/env": "^0.1.7",
     "@glimmer/global-context": "0.87.1",
